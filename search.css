@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(82, 82, 82);
+}
+.search{
+    position: relative;
+    left: 514px;
+    top: 274px;
+}
+h1{
+    position: relative;
+    top: 246px;
+    font-size: 74px;
+    font-weight: 700;
+    color: #640000;}
+
+.btn{
+    background-color: #640000;
+    border-color: #640000; 
+}
+
+.fsearch{
+    border-color: #640000;
+}
+.test{
+    position: relative;
+    top: 302px;
+    width: 504px;
+    left: 514px;
+    background-color: #640000;
+    color: #fff;
+    border-color: #640000; 
+   }
+
+a{
+    background-color: #640000;
+    color: #fff;
+    position: relative;
+    top: 348px;
+    left: 720px;
+  
+    width: 200px;
+    height: 68px;
+    padding: 0px !important;
+    font-size: 40px !important;
+}
